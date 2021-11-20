@@ -17,10 +17,10 @@
 
 ## Results 
 - June Summary Statistics:
-![png](https://github.com/mthalken/Surf_Shop_Analysis/blob/main/june_summary_statistics.png)
+![png](https://github.com/mthalken/Surf_Shop_Analysis/blob/main/Resources/june_summary_statistics.png)
 
 - December Summary Statistics:
-![png](https://github.com/mthalken/Surf_Shop_Analysis/blob/main/december_summary_statistics.png)
+![png](https://github.com/mthalken/Surf_Shop_Analysis/blob/main/Resources/december_summary_statistics.png)
 
 - Minimum temperatures differ from June at 64 degrees and December at 56 Degrees.
 - The total number of measurements also differ from June at 1700 and December at 1517.
