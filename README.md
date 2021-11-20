@@ -3,7 +3,7 @@
 ## The purpose of this analysis was to check weather trends in Oahu, Hawaii to help predict the best location for a surf shop and present the results using a Flask app.  
 
 ## Project Overview:
-1. Using sqlalchemy find the precipitation and tempiture trends for Oahu, Hawaii and specifically a single station.
+1. Using sqlalchemy find the precipitation and temperature trends for Oahu, Hawaii and specifically a single station.
 2. Plot the results using matplotlib using a bar chart in bins.
 3. Find the summary statistics for the month of June and December.
 4. Using the Flask app report the results. 
@@ -17,9 +17,11 @@
 
 ## Results 
 - June Summary Statistics:
+
 ![png](https://github.com/mthalken/Surf_Shop_Analysis/blob/main/Resources/june_summary_statistics.png)
 
 - December Summary Statistics:
+
 ![png](https://github.com/mthalken/Surf_Shop_Analysis/blob/main/Resources/december_summary_statistics.png)
 
 - Minimum temperatures differ from June at 64 degrees and December at 56 Degrees.
